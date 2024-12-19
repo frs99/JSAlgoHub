@@ -1,1 +1,11 @@
 # JSAlgoHub
+
+This repository has been moved to the company page.
+
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License
+
+Copyright (c) [2025] [elmoziml]
+
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You may not use the material for commercial purposes. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original. 
+
+For more information, please visit: https://creativecommons.org/licenses/by-nc-sa/4.0/
